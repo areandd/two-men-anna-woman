@@ -1,6 +1,6 @@
-import "../App/App.css";
-import Home from "./Home/Home";
-import Signup from "../SignUp/SignUp";
+import "./App.css";
+import Home from "../Pages/Home/Home";
+import Signup from "../Pages/SignUp/SignUp";
 
 function App() {
   return (
